@@ -1,0 +1,82 @@
+[
+    {
+      "vin": 13243,
+      "price": "$19,900",
+      "picture": "./res/usedcar_00.jpeg",
+      "model": "Dodge Charger",
+      "year": 2016,
+      "mile": 32476
+    },
+    {
+      "vin": 26483,
+      "price": "$10,600",
+      "picture": "./res/usedcar_01.jpeg",
+      "model": "Toyota Corolla",
+      "year": 2017,
+      "mile": 22734
+    },
+    {
+      "vin": 39084,
+      "price": "$18,020",
+      "picture": "./res/usedcar_02.jpeg",
+      "model": "Honda Accord",
+      "year": 2017,
+      "mile": 25474
+    },
+    {
+      "vin": 46045,
+      "price": "$59,990",
+      "picture": "./res/usedcar_03.jpeg",
+      "model": "BMW M340",
+      "year": 2019,
+      "mile": 9219
+    },
+    {
+      "vin": 53379,
+      "price": "$33,660",
+      "picture": "./res/usedcar_04.jpeg",
+      "model": "Jeep Wrangler",
+      "year": 2018,
+      "mile": 16548
+    },
+    {
+      "vin": 69837,
+      "price": "$53,860",
+      "picture": "./res/usedcar_05.jpeg",
+      "model": "Chevrolet Silverado",
+      "year": 2016,
+      "mile": 37296
+    },
+    {
+      "vin": 76374,
+      "price": "$13,200",
+      "picture": "./res/usedcar_06.jpeg",
+      "model": "Nissan Altima",
+      "year": 2015,
+      "mile": 44620
+    },
+    {
+      "vin": 82580,
+      "price": "$18,990",
+      "picture": "./res/usedcar_07.jpeg",
+      "model": "Kia Sportage",
+      "year": 2018,
+      "mile": 21456
+    },
+    {
+      "vin": 93556,
+      "price": "$56,830",
+      "picture": "./res/usedcar_08.jpeg",
+      "model": "Hyundai Genesis",
+      "year": 2018,
+      "mile": 14567
+    },
+    {
+      "vin": 10925,
+      "price": "$12,150",
+      "picture": "./res/usedcar_09.jpeg",
+      "model": "Kia Forte",
+      "year": 2015,
+      "mile": 38206
+    }
+  ]

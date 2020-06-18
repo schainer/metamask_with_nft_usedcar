@@ -1,0 +1,23 @@
+pragma solidity ^0.6.0;
+
+contract HouseRental {
+    mapping(uint => address) rented;
+    //lease a house
+    function rent(uint _houseId) public returns (address) {
+        require(_houseId >= 0 && _houseId <= 15);
+        rented[_houseId] = msg.sender;
+        return rented[_houseId];
+    }
+
+    function isRented(uint _houseId) public view returns(bool) {
+        if(rented[_houseId] != address(0)) {
+            return true;
+        }
+        return false;
+    }
+
+    function getOwner(uint _houseId) public view returns(address) {
+        require(rented[_houseId] != address(0));
+        return rented[_houseId];
+    }
+}
