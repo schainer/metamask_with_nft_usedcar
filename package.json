@@ -1,7 +1,7 @@
 {
-  "name": "house-rental",
+  "name": "usedcar-market",
   "version": "1.0.0",
-  "description": "",
+  "description": "메타마스크를 이용한 NFT 거래 플랫폼",
   "main": "truffle-config.js",
   "directories": {
     "test": "test"
