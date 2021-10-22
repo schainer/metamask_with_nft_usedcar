@@ -15,10 +15,10 @@
 
 시스템 요구사항
 ----
-- solidity compiler(solc) v.0.6.2
-- node.js v.14.2.0
-- npm v.6.14.4
-- truffle v.5.1.30
+- solidity compiler(solc) `v0.6.2`
+- node.js `v14.2.0`
+- yarn `v1.22`
+- truffle `v5.1.30`
 - Ganache(GUI) v.2.4.0
 - (optional) vscode를 text editor로 사용시 solidity 확장프로그램의 컴파일러 버전 확인
 <br/>
